@@ -6,7 +6,7 @@ package-lock.json
 .env
 /pages/styles/main2.css
 pnpm-lock.yaml
-```
+
 /pages/logged/mobile.ejs
 /pages/logged-off/mobile.ejs
 config.json
